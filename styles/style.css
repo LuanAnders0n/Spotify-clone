@@ -125,3 +125,54 @@ body {
 }
 
 /* ------------------------------------ */
+
+.popularSongsContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.popularSongs {
+  margin-top: 40px;
+  font-size: 22px;
+  padding-left: 5%;
+}
+
+.songs {
+  display: flex;
+  padding: 10px;
+  align-items: center;
+  margin-top: 14px;
+}
+
+.songs1 {
+  display: flex;
+  padding: 10px;
+  align-items: center;
+  margin-top: 5px;
+}
+
+.tittle {
+  width: 80%;
+}
+
+.imageSongs {
+  width: 60px;
+  margin-left: 15px;
+}
+
+.tittleAndStreamings {
+  margin-left: 15px;
+}
+
+.streamings {
+  color: #a0a0a0;
+  margin-top: 5px;
+}
+
+.threeButton {
+  margin-left: 85px;
+}
+
+.tittle {
+  width: 200px;
+}
